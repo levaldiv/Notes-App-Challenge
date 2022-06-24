@@ -16,12 +16,12 @@ How's it going everyone! This here is a Responsive VUE Notes App Challenge! I wa
 
 Login Preview:
 <p align="center" width="100">
-    <img src="/public/prev1.png" width="650" height="550"/>
+    <img src="/public/prev1.png" width="800" height="250"/>
 </p>
 
 Preview:
 <p align="center" width="100">
-    <img src="/public/prev2.png" width="650" height="550"/>
+    <img src="/public/prev2.png" width="800" height="250"/>
 </p>
 
 
